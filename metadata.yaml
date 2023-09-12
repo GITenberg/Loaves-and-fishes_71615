@@ -1,0 +1,30 @@
+_repo: Loaves-and-fishes_71615
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Capes, Bernard
+    aliases:
+    - Capes, B. E. J.
+    - Capes, Bernard Edward Joseph
+    birthdate: 1854
+    deathdate: 1918
+    gutenberg_agent_id: '5344'
+    url: http://www.gutenberg.org/2009/agents/5344
+    wikipedia: https://en.wikipedia.org/wiki/Bernard_Capes
+description: ''
+gutenberg_issued: '2023-09-11'
+identifiers:
+  gutenberg: '71615'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/100105450
+pgterms:marc905: 20230908130052capes
+pgterms:marc906: '1906'
+production_note: an anonymous Project Gutenberg volunteer
+publication_note: '  $aLondon :$bMethuen & Co., $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Loaves and fishes
+url: http://www.gutenberg.org/ebooks/71615
